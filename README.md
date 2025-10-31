@@ -2,6 +2,6 @@ This repository was created to develop a website showcasing the beauty of Vienna
 
 Student: Iuliia Chervonooka
 
-MA Digital Humanities
+MA Digital Humanities, University of Vienna
 
 Student ID number: 12415955
